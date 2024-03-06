@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/noir/personal/esp_box/esp-idf/projects/poten_read/build/CMakeFiles/bootloader
+/home/noir/personal/esp_box/esp-idf/projects/poten_read/build/CMakeFiles/bootloader.rule
+/home/noir/personal/esp_box/esp-idf/projects/poten_read/build/CMakeFiles/bootloader-complete.rule
+/home/noir/personal/esp_box/esp-idf/projects/poten_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/noir/personal/esp_box/esp-idf/projects/poten_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/noir/personal/esp_box/esp-idf/projects/poten_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/noir/personal/esp_box/esp-idf/projects/poten_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/noir/personal/esp_box/esp-idf/projects/poten_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/noir/personal/esp_box/esp-idf/projects/poten_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/noir/personal/esp_box/esp-idf/projects/poten_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

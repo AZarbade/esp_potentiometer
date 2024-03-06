@@ -1,0 +1,51 @@
+[0;32mI (13) boot: ESP-IDF v5.3-dev-2087-g5f42493573-dirty 2nd stage bootloader[0m
+[0;32mI (13) boot: compile time Mar  5 2024 09:13:11[0m
+[0;32mI (14) boot: Multicore bootloader[0m
+[0;32mI (19) boot: chip revision: v1.0[0m
+[0;32mI (22) boot.esp32: SPI Speed      : 40MHz[0m
+[0;32mI (27) boot.esp32: SPI Mode       : DIO[0m
+[0;32mI (31) boot.esp32: SPI Flash Size : 2MB[0m
+[0;32mI (36) boot: Enabling RNG early entropy source...[0m
+[0;32mI (41) boot: Partition Table:[0m
+[0;32mI (45) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (52) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (60) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (67) boot:  2 factory          factory app      00 00 00010000 00100000[0m
+[0;32mI (75) boot: End of partition table[0m
+[0;32mI (79) esp_image: segment 0: paddr=00010020 vaddr=3f400020 size=09d10h ( 40208) map[0m
+[0;32mI (101) esp_image: segment 1: paddr=00019d38 vaddr=3ffb0000 size=021f0h (  8688) load[0m
+[0;32mI (105) esp_image: segment 2: paddr=0001bf30 vaddr=40080000 size=040e8h ( 16616) load[0m
+[0;32mI (114) esp_image: segment 3: paddr=00020020 vaddr=400d0020 size=1454ch ( 83276) map[0m
+[0;32mI (144) esp_image: segment 4: paddr=00034574 vaddr=400840e8 size=08038h ( 32824) load[0m
+[0;32mI (163) boot: Loaded app from partition at offset 0x10000[0m
+[0;32mI (163) boot: Disabling RNG early entropy source...[0m
+[0;32mI (175) cpu_start: Multicore app[0m
+[0;32mI (184) cpu_start: Pro cpu start user code[0m
+[0;32mI (184) cpu_start: cpu freq: 160000000 Hz[0m
+[0;32mI (184) app_init: Application information:[0m
+[0;32mI (187) app_init: Project name:     poten_read[0m
+[0;32mI (192) app_init: App version:      v5.3-dev-2087-g5f42493573-dirty[0m
+[0;32mI (199) app_init: Compile time:     Mar  5 2024 09:13:03[0m
+[0;32mI (205) app_init: ELF file SHA256:  d5570e256...[0m
+[0;32mI (210) app_init: ESP-IDF:          v5.3-dev-2087-g5f42493573-dirty[0m
+[0;32mI (217) app_init: Min chip rev:     v0.0[0m
+[0;32mI (221) app_init: Max chip rev:     v3.99 [0m
+[0;32mI (226) app_init: Chip rev:         v1.0[0m
+[0;32mI (231) heap_init: Initializing. RAM available for dynamic allocation:[0m
+[0;32mI (238) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
+[0;32mI (244) heap_init: At 3FFB2AD8 len 0002D528 (181 KiB): DRAM[0m
+[0;32mI (250) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
+[0;32mI (257) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
+[0;32mI (263) heap_init: At 4008C120 len 00013EE0 (79 KiB): IRAM[0m
+[0;32mI (271) spi_flash: detected chip: generic[0m
+[0;32mI (274) spi_flash: flash io: dio[0m
+[0;33mW (278) spi_flash: Detected size(4096k) larger than the size in the binary image header(2048k). Using the size in the binary image header.[0m
+[0;33mW (291) ADC: legacy driver is deprecated, please migrate to `esp_adc/adc_oneshot.h`[0m
+[0;32mI (300) main_task: Started on CPU0[0m
+[0;32mI (310) main_task: Calling app_main()[0m
+ADC Value: 277
+ADC Value: 272
+ADC Value: 274
+ADC Value: 275
+ADC Value: 272
+ADC Value: 275
