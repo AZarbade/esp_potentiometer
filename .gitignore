@@ -1,0 +1,5 @@
+build
+.cache/clangd/index/poten_read.c.F26F3E1F7951D26C.idx
+build/bootloader
+build/build.ninja
+build/esp-idf
