@@ -1,3 +1,15 @@
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
 build
 .cache/clangd/index/poten_read.c.F26F3E1F7951D26C.idx
 build/bootloader
