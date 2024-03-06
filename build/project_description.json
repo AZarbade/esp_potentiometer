@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "poten_read",
-    "project_version":    "v5.3-dev-2087-g5f42493573-dirty",
+    "project_version":    "f8b3282-dirty",
     "project_path":       "/home/noir/personal/esp_box/esp-idf/projects/poten_read",
     "idf_path":           "/home/noir/personal/esp_box/esp-idf",
     "build_dir":          "/home/noir/personal/esp_box/esp-idf/projects/poten_read/build",
